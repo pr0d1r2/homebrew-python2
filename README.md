@@ -1,4 +1,4 @@
-# Pr0d1r2 Python2
+# Homebrew Python2
 
 ## Why?
 To have a following `Brewfile` possibility:
