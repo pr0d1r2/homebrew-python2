@@ -22,3 +22,4 @@ source. This has been tested on macOS 10.13 so far.
 
 ## References
 - https://stackoverflow.com/questions/60298514/brew-reinstalling-python2
+- https://docs.python-guide.org/starting/install/osx/
