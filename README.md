@@ -9,7 +9,7 @@ brew 'pr0d1r2/python2/python@2.7.17', args: ['build-from-source']
 ```
 
 ## How do I install this formula?
-`brew install pr0d1r2/python2/python@2.7.17`
+`brew install pr0d1r2/python2/python@2.7.17 --build-from-source`
 
 Or `brew tap pr0d1r2/python2` and then `brew install python@2.7.17 --build-from-source`.
 
