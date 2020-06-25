@@ -19,3 +19,6 @@ source. This has been tested on macOS 10.13 so far.
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+## References
+- https://stackoverflow.com/questions/60298514/brew-reinstalling-python2
